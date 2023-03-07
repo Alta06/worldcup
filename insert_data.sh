@@ -57,9 +57,7 @@ do
           echo Inserted into games, year:$YEAR, round:$ROUND, winner_id:$WINNER_ID, opponent_id:$OPPONENT_ID, winner_goals:$WINNER_GOAL, opponent_goals:$OPPONENT_GOALS
         fi
     fi
-  '
+  
   fi
 done
-
-
 
